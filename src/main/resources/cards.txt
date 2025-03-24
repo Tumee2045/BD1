@@ -2,3 +2,6 @@ Tsunh|Bag
 Zaan|Elephant
 Tsong|Window
 Sandal|Chair
+Shiree|Table
+Or|Bed
+Hushig|Curtain
